@@ -1,0 +1,88 @@
+Modules - has it's own context
+Types : local, built in, third party
+
+context:environment in which a piece of code gets executed
+
+Local modules:
+
+each file is amodule but they are isolated by default.
+
+Common js: standard defining how a module in node js should be structured and shared.
+
+To load a module require("./path to the module") into another file
+
+require function will infere a .js extention at the end of our file.
+
+
+
+Abstraction in modules>
+Q. What is a module object?
+A. Fundamental concept representing data and functionality of a JavaScript module. way of encapsulating code and data within separate, reusable units.
+
+module.exports ={exporting functions}
+
+-----index.js---------
+
+const name_of_funciton = require('./path to file')
+
+----------------------
+
+name_of_function can now be called multiple times
+
+
+Scope of modules
+
+Each module in NodeJS has its own scope. 
+IFFE is used. 
+IFFE stands for Immediately Invoked Function Expression 
+
+(function(){
+//module code})()
+
+IFFE allows you to repeat variable and function names in modules.
+
+MODULE WRAPPER
+
+(function(exports, require, module, __filename, __dirname){})();
+
+Module caching:
+
+If you export just an instance of a class then it will be cached and same module.export object will be used when new require("./path") is executed.
+
+Instead, if you export the class itself then each time require() function gets executed we get new class and each time class's object is declared a brand-new object is created
+
+Import-Export patterns
+
+module.export = function
+module.export = {functions}
+
+module.export.function () {}
+
+export.function () {}
+
+module.exports vs exports
+
+From a module NodeJS only returns module.exports and not exports. exports are just a reference to module.exports, but when we assign new object literal to export the reference link between exports and module.exports gets broken and the module.expoorts remains an empty object {}. But if we only use exports.function(){} to assign a function to export the change will be reflected on module.exports too.
+
+ES modules
+
+file extension .msj <= .js
+
+ECMAScript standard for modules
+
+Importing json
+
+If we import a .json file the require() function will automatically parse json string to a json object.
+
+You can ignore .json extension while writing require() but if there exists a .js file with same name then that file will be imported instead of intended .json file
+
+watch mode
+
+-----------terminal-----------
+
+node --watch filename
+
+------------------------------
+
+
+
