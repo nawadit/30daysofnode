@@ -116,6 +116,8 @@ exports.myFunction = function() { /* implementation */ };
 exports.myVariable = 42;
 ```
 
+From a module NodeJS only returns module.exports and not exports. exports are just a reference to module.exports, but when we assign new object literal to export the reference link between exports and module.exports gets broken and the module.expoorts remains an empty object {}. But if we only use exports.function(){} to assign a function to export the change will be reflected on module.exports too.
+
 ## ES Modules
 
 Node.js supports ECMAScript (ES) modules, indicated by the `.mjs` extension. ES modules offer a different syntax for importing and exporting, promoting compatibility with modern JavaScript.
