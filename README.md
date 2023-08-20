@@ -14,3 +14,5 @@ Hello all you beautiful people. In this repository you'll be joining me on my 30
 [Day Six](https://github.com/prozacnzoloft/30daysofnode/tree/main/Journal/Day%20Six)
 
 [Day Seven](https://github.com/prozacnzoloft/30daysofnode/tree/main/Journal/Day%20Seven)
+
+[Day Eight](https://github.com/prozacnzoloft/30daysofnode/tree/main/Journal/Day%208)
