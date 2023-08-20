@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "nawadit-uppercase": "^1.0.0",
+    "upper-case": "^2.0.2"
+  },
+  "name": "nawadit-uppercase",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "uppercase, upcase, capital, nawadit"
+  ],
+  "author": "Nawadit Sharma",
+  "license": "ISC",
+  "description": "a simple packages that can change passed string to all uppercase"
+}
