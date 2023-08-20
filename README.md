@@ -1,18 +1,18 @@
 # 30daysofnode
 Hello all you beautiful people. In this repository you'll be joining me on my 30-days journey through the befogging forest of nodeJS, Express and all that other good stuff that comes with backend development....
  
-[Day One](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20One)
+<a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20One" target="_blank">Day One</a>
 
-[Day Two](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Two)
+<a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Two" target="_blank">Day Two</a>
 
-[Day Three](https://github.com/prozacnzoloft/30daysofnode/tree/main/Journal/Day%20Three)
+<a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Three" target="_blank">Day Three</a>
 
-[Day Four](https://github.com/prozacnzoloft/30daysofnode/tree/main/Journal/Day%20Four)
+<a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Four" target="_blank">Day Four</a>
 
-[Day Five](https://github.com/prozacnzoloft/30daysofnode/tree/main/Journal/Day%20Five)
+<a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Five" target="_blank">Day Five</a>
 
-[Day Six](https://github.com/prozacnzoloft/30daysofnode/tree/main/Journal/Day%20Six)
+<a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Six" target="_blank">Day Six</a>
 
-[Day Seven](https://github.com/prozacnzoloft/30daysofnode/tree/main/Journal/Day%20Seven)
+<a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Seven" target="_blank">Day Seven</a>
 
-[Day Eight](https://github.com/prozacnzoloft/30daysofnode/tree/main/Journal/Day%208)
+<a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Eight" target="_blank">Day Eight</a>
