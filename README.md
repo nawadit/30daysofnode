@@ -16,3 +16,5 @@ Hello all you beautiful people. In this repository you'll be joining me on my 30
 <a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Seven" target="_blank">Day Seven</a>
 
 <a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Eight" target="_blank">Day Eight</a>
+
+<a href="https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Nine" target="_blank">Day Nine</a>
