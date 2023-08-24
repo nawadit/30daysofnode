@@ -12,3 +12,4 @@
 | [Day 9](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Nine) | CLI |
 | [Day 10](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%20Ten) | cluster, pm2, worker_threads modules and deploying js application |
 | [Day 11](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2011) | Intro to express|
+| [Day 12(https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2012) | Post and Get requests|
