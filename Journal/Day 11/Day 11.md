@@ -6,4 +6,8 @@ Express.js, or simply Express, is a back end web application framework for build
 #### Working:
 You should call the function exported by express module and then call methods to write code as required. 
 
-` fsdfsdfsd `
+` const express = require('express')
+const app = express()`
+
+and now you can do things like:
+`app.listen(port_no, ()=>{conosle.log(`express app listening to port ${port-no}`)})`
