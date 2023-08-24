@@ -12,3 +12,12 @@ const app = express()`
 and now you can do things like:
 
 ``app.listen(port_no, ()=>{conosle.log(`express app listening to port ${port-no}`)})``
+
+#### Handeling GET requests
+
+GET request are the type of requests that a client makes to a server in order to retrieve some kind of resource from the database/ server. You can use express to handel your get requests like how I've done here.
+
+`` app.get('/path', (req, res)=>{
+//your code here
+})
+``
