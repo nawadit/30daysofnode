@@ -19,5 +19,6 @@ GET request are the type of requests that a client makes to a server in order to
 
 `` app.get('/path', (req, res)=>{
 //your code here
+//res.sent(resource here)
 })
 ``
