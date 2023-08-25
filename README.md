@@ -10,5 +10,7 @@
 | [Day 08](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2008) | Internals of http, network io, installing packages and ... |
 | [Day 09](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2009) | CLI |
 | [Day 10](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2010) | cluster, pm2, worker_threads modules and deploying js application |
-| [Day 11](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2011) | Intro to express|
-| [Day 12](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2012) | Post and Get requests|
+| ------ | |
+| [Day 11](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2011) | Intro to Express|
+| [Day 12](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2012) | Post and Get requests in Express|
+| [Day 13](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2013) | Middlewares, Routes and Query Parameters in Express|
