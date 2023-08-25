@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Apple",
+        "color": "Red",
+        "taste": "Sweet"
+    },
+    {
+        "name": "Banana",
+        "color": "Yellow",
+        "taste": "Sweet"
+    },
+    {
+        "name": "Orange",
+        "color": "Orange",
+        "taste": "Citrusy"
+    },
+    {
+        "name": "Grapes",
+        "color": "Purple/Green",
+        "taste": "Sweet"
+    },
+    {
+        "name": "Strawberry",
+        "color": "Red",
+        "taste": "Sweet"
+    },
+    {
+        "name": "Mango",
+        "color": "Yellow/Orange",
+        "taste": "Sweet"
+    },
+    {
+        "name": "Pineapple",
+        "color": "Yellow/Brown",
+        "taste": "Tangy"
+    },
+    {
+        "name": "Watermelon",
+        "color": "Green/Red",
+        "taste": "Juicy"
+    },
+    {
+        "name": "Kiwi",
+        "color": "Green",
+        "taste": "Tart"
+    },
+    {
+        "name": "Pear",
+        "color": "Green/Yellow",
+        "taste": "Sweet"
+    },
+    {
+        "name": "Cherry",
+        "color": "Red",
+        "taste": "Sweet/Tart"
+    },
+    {
+        "name": "Blueberry",
+        "color": "Blue",
+        "taste": "Sweet"
+    },
+    {
+        "name": "Raspberry",
+        "color": "Red",
+        "taste": "Sweet/Tart"
+    },
+    {
+        "name": "Blackberry",
+        "color": "Black",
+        "taste": "Sweet/Tart"
+    },
+    {
+        "name": "Peach",
+        "color": "Orange",
+        "taste": "Sweet"
+    }
+]

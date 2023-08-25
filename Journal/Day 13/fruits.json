@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Apple",
+      "color": "Red",
+      "origin": "North America"
+    },
+    {
+      "name": "Banana",
+      "color": "Yellow",
+      "origin": "Southeast Asia"
+    },
+    {
+      "name": "Orange",
+      "color": "Orange",
+      "origin": "Asia"
+    },
+    {
+      "name": "Grapes",
+      "color": "Purple",
+      "origin": "Various"
+    },
+    {
+      "name": "Strawberry",
+      "color": "Red",
+      "origin": "Europe"
+    },
+    {
+      "name": "Kiwi",
+      "color": "Green",
+      "origin": "China"
+    },
+    {
+      "name": "Mango",
+      "color": "Yellow",
+      "origin": "South Asia"
+    },
+    {
+      "name": "Pineapple",
+      "color": "Yellow",
+      "origin": "South America"
+    },
+    {
+      "name": "Watermelon",
+      "color": "Green",
+      "origin": "Africa"
+    },
+    {
+      "name": "Blueberry",
+      "color": "Blue",
+      "origin": "North America"
+    }
+  ]
+  
