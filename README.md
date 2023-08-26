@@ -13,4 +13,4 @@
 | ------ | |
 | [Day 11](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2011) | Intro to Express|
 | [Day 12](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2012) | Post and Get requests in Express|
-| [Day 13](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2013) | Middlewares, Routes and Query Parameters in Express|
+| [Day 13](https://github.com/prozacnzoloft/30daysofnode/blob/main/Journal/Day%2013) | Middlewares, Routes and Query Parameters in Express JS|
